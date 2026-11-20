@@ -1,0 +1,15 @@
+class,prompt,threshold
+person,"a human standing, sitting or walking; the whole body or only part of the body may be visible",0.45
+elevator door,"a pair of flat silver or gray metal sliding doors set into a wall, with call buttons beside them",0.45
+air conditioner,a white rectangular box on a wall or ceiling with horizontal slats or vents that blow air,0.5
+ceiling light,a bright white rectangular panel or long white tube light fixed on the ceiling,0.6
+thermostat,"a small white square box on a wall with a small digital screen and buttons, about the size of a hand",0.4
+projector,a white or gray box hanging from the ceiling with a round lens on one side,0.5
+security camera,a small white or black dome-shaped or tube-shaped camera fixed on the ceiling or high on a wall,0.65
+electrical panel,"a flat gray or beige metal box or cabinet on a wall with a door, switches or meters",0.5
+smoke detector,"a small round flat white disc on the ceiling, about the size of a hand",0.65
+wall speaker,a small box mounted high on a wall with a mesh or grille front for sound,0.4
+fire extinguisher,"a bright red metal cylinder bottle with a black hose and a handle on top, on the floor or hung on a wall",0.5
+fire alarm button,a small bright red square box on a wall with a round push button or clear cover in the middle,0.55
+fire hose cabinet,"a large red or silver metal cabinet built into a wall with a door, often with red text or a glass window",0.55
+exit sign,"a small glowing green rectangular sign with a white running person figure, above a door or on a wall",0.45
